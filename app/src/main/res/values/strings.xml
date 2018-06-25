@@ -21,7 +21,7 @@
 
     <string name="question4">4. What does ADB stand for in Android?</string>
 
-    <string name="question5">5. How many orientation does android support?</string>
+    <string name="question5">5. How many orientation does Android support?</string>
     <string name="question5_choice1">10</string>
     <string name="question5_choice2">4</string>
     <string name="question5_choice3">7</string>
