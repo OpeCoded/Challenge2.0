@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <string name="aboutquiz">Topic: Mobile App Development (Android). \n
+    Questions: 10 \n
+    Instructions: Answer the questions and click the \n submit button when done.</string>
+
+
+    <string name="question1">1. What is an Activity in Android?</string>
+    <string name="question1_choice1">Manage the Application content</string>
+    <string name="question1_choice2">Screen UI</string>
+    <string name="question1_choice3">Activity performs the actions on the screen</string>
+
+    <string name="question2">2. What does APK stand for in Android?</string>
+
+    <string name="question3">3. Which features are considered while creating android applications.</string>
+    <string name="question3_choice1">Screen Size</string>
+    <string name="question3_choice2">Phone name</string>
+    <string name="question3_choice3">Platform Version</string>
+    <string name="question3_choice4">Manufacturer</string>
+
+    <string name="question4">4. What does ADB stand for in Android?</string>
+
+    <string name="question5">5. How many orientation does android support?</string>
+    <string name="question5_choice1">10</string>
+    <string name="question5_choice2">4</string>
+    <string name="question5_choice3">7</string>
+    <string name="question5_choice4">3</string>
+    <string name="question5_choice5">All of the above</string>
+
+
+    <string name="question6">6. DVM stands for what in android?</string>
+
+    <string name="question7">7. Two Components in android are?</string>
+    <string name="question7_choice1">Java</string>
+    <string name="question7_choice2">Layout</string>
+    <string name="question7_choice3">Activity</string>
+    <string name="question7_choice4">Broadcast Receiver</string>
+
+    <string name="question8">8. On which thread services work in android?</string>
+
+    <string name="question9">9. What is the time limit of broadcast receiver in android?</string>
+    <string name="question9_choice1">5 sec</string>
+    <string name="question9_choice2">10 sec</string>
+
+    <string name="question10">10. What does ANR stands for in android?</string>
+
+    <string name="submit_answers">Submit</string>
+
+
+</resources>
